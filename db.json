@@ -1,0 +1,16 @@
+
+{
+    "users": [
+      { "id": 1, "name": "Rahim Uddin", "phone": "+8801712345678", "balance": 1500.50 },
+      { "id": 2, "name": "Karim Ahmed", "phone": "+8801812345678", "balance": 2300.75 },
+      { "id": 3, "name": "Shahin Alam", "phone": "+8801912345678", "balance": 980.00 },
+      { "id": 4, "name": "Mitu Akter", "phone": "+8801711223344", "balance": 1250.00 },
+      { "id": 5, "name": "Jamal Hossain", "phone": "+8801811223344", "balance": 3000.00 },
+      { "id": 6, "name": "Rita Begum", "phone": "+8801911223344", "balance": 1720.45 },
+      { "id": 7, "name": "Babul Mia", "phone": "+8801719876543", "balance": 250.00 },
+      { "id": 8, "name": "Farzana Yasmin", "phone": "+8801819876543", "balance": 1999.99 },
+      { "id": 9, "name": "Saiful Islam", "phone": "+8801919876543", "balance": 3100.00 },
+      { "id": 10, "name": "Nasima Akhter", "phone": "+8801715566778", "balance": 850.60 }
+    ]
+  }
+  
